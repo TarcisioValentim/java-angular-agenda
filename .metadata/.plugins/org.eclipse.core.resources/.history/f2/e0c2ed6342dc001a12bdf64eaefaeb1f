@@ -1,0 +1,5 @@
+package com.franciscocalaca.exemplo;
+
+public @interface RequestMapping {
+
+}
